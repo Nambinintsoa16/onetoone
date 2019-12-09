@@ -1,0 +1,184 @@
+.layout-fixed .main-sidebar {
+    bottom: 0;
+    float: none;
+    height: 100vh;
+    left: 0;
+    position: fixed;
+    top: 0;
+    background: white;
+}
+.modal-content{
+	/*width: 900px!important;*/
+}
+
+
+.bann_accueil{
+	min-height: 300px;
+	object-fit: cover;
+	width: 100%;
+}
+/*.content_dt{
+	margin-top: -100px;
+}
+.content_dt{
+	font-size: 35px;
+	color: #fff;
+}*/
+.block_menu{
+	margin-top: -80px;
+	padding: 0px 5px;
+	margin-left:0px;
+}
+.contener_entite{
+	background: #33b5e5;
+	border-radius: 5px;
+	 min-height: 100px
+}
+.block1,.block2,.block3,.block4 {
+	margin-bottom:10px;
+}
+.Commerciaux{
+	padding: 10px 10px;
+	color:#fff;
+	font-size: 20px;
+}
+.Commerciaux >i{
+	font-size: 34px; 
+	color:#fff
+}
+.badge_accueil{
+	height: 25px;
+	background: white;
+	width: 100%;
+}
+.produit{
+	background:white;
+	border-radius: 5px; 
+	min-height: 100;
+}
+.produit>.text{
+	padding: 10px 10px;
+	color:#fff;
+	font-size: 20px;
+}
+.produit>.text>i{
+	font-size: 34px; 
+	color:#fff;
+}
+
+.Planning{
+	background: #00C851;
+	border-radius: 5px;
+	 min-height: 100px;
+}
+.Planning>.text{
+	padding: 10px 10px;
+	color:#fff;
+	font-size: 20px;
+}
+
+.Planning>.text>i{
+	font-size: 34px;
+	 color:#fff;
+}
+.penalites{
+	background: #ff4444;
+	border-radius: 5px;
+	 min-height: 100px;
+}
+.penalites>.text{
+	padding: 10px 10px;
+	color:#fff;
+	font-size: 20px;
+}
+.penalites>.text>i{
+	font-size: 34px;
+	 color:#fff;
+}
+
+.imagePreview {
+    width: 100%;
+    height: 180px;
+    background-position: center center;
+    background:url("../images/avatar.png");
+    background-color:#fff;
+    background-size: cover;
+    background-repeat:no-repeat;
+    display: inline-block;
+  box-shadow:0px -3px 6px 2px rgba(0,0,0,0.2);
+}
+.btn-primary
+{
+  display:block;
+  border-radius:0px;
+  box-shadow:0px 4px 6px 2px rgba(0,0,0,0.2);
+  margin-top:-5px;
+}
+.imgUp
+{
+  margin-bottom:15px;
+}
+
+.badge_content{
+    
+}
+/* vente journalière */
+.detail:hover{
+    cursor:pointer;
+    color:green;
+}
+/*LISTE PANIER*/
+#P0{
+    background:#ff4444;
+}
+#P1{
+    background:#ffbb33;
+}
+#P2{
+    background:#00C851;
+}
+#P3{
+    background:#33b5e5;
+}
+#P4{
+    background:#CC0000;
+}
+#P5{
+    background:#FF8800;
+}
+#P6{
+    background:#007E33;
+}
+#P7{
+    background:#0099CC;
+}
+#P8{
+    background:#2BBBAD;
+}
+#P9{
+    background:#000066;
+}
+#P10{
+    background:#000066;
+}
+#P11{
+    background:#9933CC;
+}
+#P12{
+    background:#00695c
+}
+#P13{
+    background:#0d47a1;
+}
+#P14{
+    background:#311b92;
+}
+#P15{
+    background:#880e4f;
+}
+#P17{
+    background:#00C851;
+}
+#P18{
+    background:#FFCCCC;
+}
